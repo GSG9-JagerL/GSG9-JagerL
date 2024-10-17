@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jäger
-- 👀 I’m interested in Data Engineering, NLP, Cyber Security
-- 🌱 I’m currently learning Machine Learning
+- 👀 I'm a Python developer
 
 <!---
 GSG9-JagerL/GSG9-JagerL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
